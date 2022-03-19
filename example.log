@@ -1,0 +1,38 @@
+INFO:root:start script
+WARNING:root:0
+WARNING:root:1
+WARNING:root:2
+WARNING:root:3
+WARNING:root:4
+WARNING:root:5
+WARNING:root:6
+WARNING:root:7
+WARNING:root:8
+WARNING:root:9
+INFO:root:end script
+INFO:root:start script
+WARNING:root:0
+WARNING:root:1
+WARNING:root:2
+WARNING:root:3
+WARNING:root:4
+WARNING:root:5
+WARNING:root:6
+WARNING:root:7
+WARNING:root:8
+WARNING:root:9
+INFO:root:end script
+2022-03-19 15:30:13,354 INFO root start script
+2022-03-19 15:30:13,354 WARNING root 0
+2022-03-19 15:30:13,354 WARNING root 1
+2022-03-19 15:30:13,354 WARNING root 2
+2022-03-19 15:30:13,354 WARNING root 3
+2022-03-19 15:30:13,354 WARNING root 4
+2022-03-19 15:30:13,354 WARNING root 5
+2022-03-19 15:30:13,354 WARNING root 6
+2022-03-19 15:30:13,360 WARNING root 7
+2022-03-19 15:30:13,360 WARNING root 8
+2022-03-19 15:30:13,360 WARNING root 9
+2022-03-19 15:30:13,368 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): ya.ru:443
+2022-03-19 15:30:13,512 DEBUG urllib3.connectionpool https://ya.ru:443 "GET / HTTP/1.1" 200 None
+2022-03-19 15:30:13,537 INFO root end script
